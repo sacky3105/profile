@@ -14,6 +14,9 @@ Accessを用いながら物流の現場業務に携わっておりました。
 AccessVBAとSQLを中心に基幹システムの開発と保守・運用に取り組んで  
 来ましたが、今後はJavaを用いた開発にも取り組んでいきたいと考えており、  
 Java SilverとOracle masterの取得も目指しております。  
+
+また、現在はSEとして従事しておりますが、長期的にはPMや  
+システムアーキテクトの業務にも従事したいと考えております。　
   
 ## 経歴：
   
@@ -37,6 +40,7 @@ Java SilverとOracle masterの取得も目指しております。
 
 * **フロントエンド**:JavaScript
 * **バックエンド**: Java, PHP, Laravel, Python, C#, VB.net, Spring Boot
+* **その他言語**: HTML, CSS
 * **データベース**: MySQL, Oracle, SQL Server
 * **バージョン管理**: Git, GitHub, TortoiseSVN
 * **IDE**: Eclipse, VSCode, Visual Studio
@@ -63,6 +67,23 @@ Java SilverとOracle masterの取得も目指しております。
 - 役割: 開発〜運用担当のSE(3人)
 - 使用技術: SQLServer/Access/SAP/AWS
 - 成果: ユーザーからの要望への対応力/ODBC接続設定及び技術の習得
+
+## 個人開発
+### 個人開発1: Spring Bootを用いた商品カタログページ開発
+* 概要: 商品カタログ登録ページ開発
+* 使用技術: Java/Spring Boot/HTML/CSS/BootStrap/Tomcat Apache/thymeleaf
+* 使用エディタ: VSCode
+* 成果: JavaとSpring Bootでの開発手法習得
+* ソースリポジトリ
+  - [カタログサイトソース](https://github.com/sacky3105/motocatalog)
+
+### 個人開発2: アルバイト記録アプリ
+* 概要: アルバイトの記録アプリ開発の実施
+* 使用技術: C#/ASP.Core/SQL Server
+* 使用エディタ: Visual Studio
+* 成果: C#の技術習得/MVCモデルのASP.Core開発習得
+* ソースリポジトリ
+  - [アルバイト記録サイトソース](https://github.com/sacky3105/PartTimeJobLogApp)
 
 ## ソフトスキル
 
