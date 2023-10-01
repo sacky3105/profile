@@ -3,7 +3,8 @@
 ## 自己紹介
 
 2014年4月に新卒で製造業に総合職として入社し、2018年3月まで  
-様々なバックオフィス業務に従事しておりました。  
+様々なバックオフィス業務に従事しおり、主にヘルプデスクを担当し  
+ITサポートに従事しておりました。  
   
 2018年4月に製造業の物流部門に配属され、最初の二年間は現場作業員として  
 Accessを用いながら物流の現場業務に携わっておりました。  
@@ -15,7 +16,7 @@ AccessVBAとSQLを中心に基幹システムの開発と保守・運用に取�
 来ましたが、今後はJavaを用いた開発にも取り組んでいきたいと考えており、  
 Java SilverとOracle masterの取得も目指しております。  
 
-また、現在はSEとして従事しておりますが、長期的にはPMや  
+また、現在はSEとして従事しておりますが、長期的には  
 システムアーキテクトの業務にも従事したいと考えております。　
   
 ## 経歴：
@@ -38,9 +39,8 @@ Java SilverとOracle masterの取得も目指しております。
 
 [GitHubリンク](https://github.com/sacky3105)
 
-* **フロントエンド**:JavaScript
-* **バックエンド**: Java, PHP, Laravel, Python, C#, VB.net, Spring Boot
-* **その他言語**: HTML, CSS
+* **バックエンド**: Java, Spring Boot, C#, ASP.Core
+* **その他言語**: HTML, CSS, BootStrap
 * **データベース**: MySQL, Oracle, SQL Server
 * **バージョン管理**: Git, GitHub, TortoiseSVN
 * **IDE**: Eclipse, VSCode, Visual Studio
@@ -50,7 +50,7 @@ Java SilverとOracle masterの取得も目指しております。
 ### プロジェクト1: 物流向け　基幹システム(入出庫管理)のAccessアプリの追加開発/運用保守
 - 期間: 2021年4月～2023年7月
 - 概要: パレットの入出庫管理を行うためのAccessアプリの機能追加/保守業務
-- 役割: 設計〜構築〜運用引き継ぎのSE(5人)
+- 役割: 詳細設計〜構築〜運用引き継ぎのSE(5人)
 - 使用技術: Access/VBA/SQL
 - 成果:Accessを用いたシステム設計とDB設計を習得。また、VBAとSQLの技術も習得。
 
@@ -64,8 +64,8 @@ Java SilverとOracle masterの取得も目指しております。
 ### プロジェクト3: 小売業務用 Accessツールの開発・運用
 - 期間: 2023年8月～2023年10月
 - 概要: 小売業の業務で用いるAccessツールの改修と運用業務に従事
-- 役割: 開発〜運用担当のSE(3人)
-- 使用技術: SQLServer/Access/SAP/AWS
+- 役割: 詳細設計〜運用担当のSE(3人)
+- 使用技術: SQLServer/Access/SAP/AWS(Amazon Redshift)
 - 成果: ユーザーからの要望への対応力/ODBC接続設定及び技術の習得
 
 ## 個人開発
