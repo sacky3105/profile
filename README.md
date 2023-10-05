@@ -39,7 +39,7 @@ Java SilverとOracle masterの取得も目指しております。
 
 [GitHubリンク](https://github.com/sacky3105)
 
-* **バックエンド**: Java, Spring Boot, C#, ASP.Core
+* **バックエンド**: Java, Spring Boot, C#, C++, ASP.Core
 * **その他言語**: HTML, CSS, BootStrap
 * **データベース**: MySQL, Oracle, SQL Server
 * **バージョン管理**: Git, GitHub, TortoiseSVN
@@ -81,9 +81,18 @@ Java SilverとOracle masterの取得も目指しております。
 * 概要: アルバイトの記録アプリ開発の実施
 * 使用技術: C#/ASP.Core/SQL Server
 * 使用エディタ: Visual Studio
-* 成果: C#の技術習得/MVCモデルのASP.Core開発習得
+* 成果: C#の技術習得/MVCモデルのASP.Core開発手法習得
 * ソースリポジトリ
   - [アルバイト記録サイトソース](https://github.com/sacky3105/PartTimeJobLogApp)
+
+
+### 個人開発3: ログ表示サンプルアプリ
+* 概要: ログ表示サンプルアプリ開発の実施
+* 使用技術: C++
+* 使用エディタ: Visual Studio
+* 成果: C++の技術習得/デスクトップアプリ開発手法習得
+* ソースリポジトリ
+  - [ログ表示サンプルアプリソース](https://github.com/sacky3105/vusialc_sample_application)
 
 ## ソフトスキル
 
