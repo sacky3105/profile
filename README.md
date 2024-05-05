@@ -30,20 +30,23 @@ Java SilverとOracle masterの取得も目指しております。
 
 ## スキルセット(業務経験)
 
-* **バックエンド**: VBA
-* **データベース**: SAP, SQLServer, AWS(Amazon Redshift)
+* **バックエンド**: VBA,Java,vb.net
+* **データベース**: SAP, SQLServer, AWS(Amazon Redshift),Oracle
 * **バージョン管理**: TortoiseSVN
+* **インフラ環境**: AWS, OCI
+* **業務ツール**: JP1/AJS
 * **OS**: Windows
 
 ## スキルセット(個人開発)
 
 [GitHubリンク](https://github.com/sacky3105)
 
-* **バックエンド**: Java, Spring Boot, C#, C++, ASP.Core
+* **バックエンド**: Java, Spring Boot, C#, ASP.Core, Python, Django
 * **その他言語**: HTML, CSS, BootStrap
 * **データベース**: MySQL, Oracle, SQL Server
 * **バージョン管理**: Git, GitHub, TortoiseSVN
 * **IDE**: Eclipse, VSCode, Visual Studio
+* **インフラ関係**: OCI, Docker, docker-compose
 
 ## 業務経験
 
@@ -68,6 +71,12 @@ Java SilverとOracle masterの取得も目指しております。
 - 使用技術: SQLServer/Access/SAP/AWS(Amazon Redshift)
 - 成果: ユーザーからの要望への対応力/ODBC接続設定及び技術の習得
 
+### プロジェクト4: 大阪市総合福祉課 業務用基幹システム 機種更新プロジェクト
+- 基幹: 2023年11月～現在
+- 概要: 大阪市の総合福祉課で用いる業務用PC端末入れ替えとそれに伴う業務用基幹システムの改修
+- 役割: 上流工程のプロト検証～リリース(約30人マルチベンダー体制)
+- 仕様技術: Oracle/vb.net/Java/JP1/AJS/Access
+
 ## 個人開発
 ### 個人開発1: Spring Bootを用いた商品カタログページ開発
 * 概要: 商品カタログ登録ページ開発
@@ -86,13 +95,13 @@ Java SilverとOracle masterの取得も目指しております。
   - [アルバイト記録サイトソース](https://github.com/sacky3105/PartTimeJobLogApp)
 
 
-### 個人開発3: ログ表示サンプルアプリ
-* 概要: ログ表示サンプルアプリ開発の実施
-* 使用技術: C++
-* 使用エディタ: Visual Studio
-* 成果: C++の技術習得/デスクトップアプリ開発手法習得
+### 個人開発3: Todoリストサンプルアプリ
+* 概要: Todoリストを管理するサンプルアプリ開発の実施
+* 使用技術: Python/Django/Docker/OCI
+* 使用エディタ: VSCode
+* 成果: PythonとDjangoでの開発手法習得/OCIでのデプロイと本番運用の手法習得
 * ソースリポジトリ
-  - [ログ表示サンプルアプリソース](https://github.com/sacky3105/vusialc_sample_application)
+  - [Todoリストサンプルアプリソース](https://github.com/sacky3105/django_app)
 
 ## ソフトスキル
 
@@ -101,8 +110,10 @@ Java SilverとOracle masterの取得も目指しております。
 * 問題解決能力
   - これまでの参画案件で技術的/コミュニケーション問題について自ら手を挙げ開発や運用・保守に従事しました。
   - プログラムのエラーが発生し、日本語で検索をしても出てこない場合は英語のサイトを活用し解決出来ます。
+  - 不明点があれば、自分なりに仮説を立てた上で有識者に質問し解決する力を持っております。
 * 柔軟性
   - 今まで行ってきたAccessVBAに執着せず、個人学習や個人開発を自主的に行うことで新しい言語へのキャッチアップも行えます。
+  - 全体を把握した上で、自分の担当以外にやるべきところがあれば巻き取りに行くことも出来ます。
 
 ## 資格
  
